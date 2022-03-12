@@ -3,7 +3,7 @@
 import os
 import cv2
 
-file = 'tu.png'
+file = 'example.png'
 img = cv2.imread(file)
 
 def _3x1():
