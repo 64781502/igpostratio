@@ -31,7 +31,7 @@ def main():
     
     else:
         print("Wrong format")
-        input()
+        input() #window hold
 
 if __name__ == '__main__':
     main()
