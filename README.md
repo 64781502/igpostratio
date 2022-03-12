@@ -16,4 +16,8 @@
 
 # 1x1 - 9 * 1x1
 
-###### in making
+#### before:
+![Before](https://i.imgur.com/yCQWrzu.png)
+
+#### after:
+![After](https://i.imgur.com/sptqPnm.png)
